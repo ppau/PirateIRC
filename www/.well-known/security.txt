@@ -1,0 +1,3 @@
+Contact: https://pirateirc.net/contact.html
+Preferred-Languages: en
+Canonical: https://pirateirc.net/.well-known/security.txt
